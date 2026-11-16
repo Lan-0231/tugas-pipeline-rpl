@@ -10,7 +10,7 @@ const hitungTotalBelanja = (hargaSatuan, jumlahBeli) => {
 
 test('Menghitung total harga pembelian Paracetamol (5000 x 3)', () => {
   const hasil = hitungTotalBelanja(5000, 3);
-  expect(hasil).toBe(15000);
+  expect(hasil).toBe(99999999);
 });
 
 test('Menghitung total harga dengan jumlah 0', () => {
