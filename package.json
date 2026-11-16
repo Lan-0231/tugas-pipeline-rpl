@@ -1,0 +1,16 @@
+{
+  "name": "aplikasi-apotek-backend",
+  "version": "1.0.0",
+  "description": "Backend Aplikasi Apotek untuk TBP RPL",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
