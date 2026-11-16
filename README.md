@@ -47,5 +47,6 @@ Ringkasan Error & Perbaikan (Simulasi CI)
 2. Langkah Perbaikan: Mengembalikan logika assertion ke nilai yang sesuai dan melakukan push ulang ke branch utama, sehingga seluruh tahapan build dan test kembali berstatus sukses (passed).
 
 Anggota Tim
-
-    Muh. Zufar Fauzan (F5512520074) — Kelas TI-B, Teknik Informatika, Universitas Tadulako
+1. Muh. Zufar Fauzan (F5512520074) 
+2. Abdullah Hanif (F5512520055)
+3. I Gede Yhoga Pramana (F5512520067)
